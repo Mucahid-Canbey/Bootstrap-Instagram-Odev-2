@@ -2,6 +2,11 @@ body{
   padding: 60px;
 }
 
+#nav1{
+  height:54px;
+  background-color: white;
+}
+
 ::placeholder{
   text-align: center;
   font-size: 14px;
