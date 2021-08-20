@@ -27,6 +27,7 @@ input.empty {
     font-weight: normal;
     text-decoration: inherit;
     background-color: #FAFAFA;
+    margin-left: 100px;
 }
 
 .postuserfont {
