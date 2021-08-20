@@ -35,6 +35,12 @@ input.empty {
   color: black;
 }
 
+/* important özelliği sabitler*/
+#ortakAlan {
+  max-height: 200px!important;
+
+}
+
 
 .storyphoto {
   width: 60px;
