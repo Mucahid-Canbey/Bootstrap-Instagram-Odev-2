@@ -70,3 +70,10 @@ input.empty {
   float: right;
   margin-top: 10px;
 }
+
+.card-header{
+  background-color:white;
+}
+.card-footer{
+  background-color: white;
+}
