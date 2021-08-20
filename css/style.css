@@ -65,3 +65,8 @@ input.empty {
   text-decoration: none;
   color: lightgrey;
 }
+
+.fas {
+  float: right;
+  margin-top: 10px;
+}
