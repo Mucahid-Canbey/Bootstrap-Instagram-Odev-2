@@ -1,7 +1,13 @@
 # Instagram Clone 
-### Patika.dev & Kodluyoruz
+
+
+
+
 
 Bu projede eksik olan Instagram Clone yapısını baştan sona bootstrap ile düzenledim
+
+![Image](https://r.resimlink.com/QvqbJzUg.png) 
+
 
 ---
 
