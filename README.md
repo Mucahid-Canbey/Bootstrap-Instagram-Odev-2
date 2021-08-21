@@ -1,14 +1,10 @@
-# Instagram Clone 
+## Instagram Clone 
 
 
-
-
-
-Bu projede eksik olan Instagram Clone yapısını baştan sona bootstrap ile düzenledim
 
 ![Image](https://r.resimlink.com/QvqbJzUg.png) 
 
-
+Patika.dev'in bootstrap dersinde yeni öğrendiğim bilgiler ile Instagram clone tasarladım
 ---
 
 ![Image](images/yeniproje.gif)
@@ -20,7 +16,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın.
 
 ```
-https://github.com/Mucahid-Canbey/instagram-clone-bootstrap-odev-2.git
+https://github.com/Mucahid-Canbey/Bootstrap-Instagram-Odev-2.git
 ```
 
 ## Usage
